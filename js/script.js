@@ -1,7 +1,7 @@
 $(function(){
     const channels = [
         {name: "kplus-sport-1", link: "http://b4tv.live/b4tv/b4tv/76.m3u8"},
-        {name: "kplus-sport-2", link: "http://b4tv.live/b4tv/b4tv/86.m3u8"},
+        {name: "kplus-sports", link: "http://b4tv.live/b4tv/b4tv/86.m3u8"},
         {name: "onfootball", link: "https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8"},
         {name: "onsport", link: "https://live2onsport.vtvcab.vn/dash/THETHAO_HD/m40_index.m3u8"},
         {name: "tv360-1", link: "http://b4tv.live/b4tv/b4tv/3.m3u8"},
