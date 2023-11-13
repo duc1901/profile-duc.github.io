@@ -6,7 +6,7 @@ jQuery(document).ready(function () {
 
 function giftOpen() {
     jQuery("section.gift").on("click", function () {
-                jQuery("audio").play();
+                jQuery("audio").get(0).play();
                 jQuery(".error").hide();
                 jQuery(".lbWrapper,.lbWrapper .signupWrapper").hide();
                 jQuery(".gift-top").removeClass("hovered");
